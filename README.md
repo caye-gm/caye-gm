@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Cayetano García.
-- 👀 Currently I do not use my git repository but I would like to make contributions in the future.
-- 🌱 I started studying software development in 2018, I entered this beautiful world of code after finishing my studies today , I am proud to say that I love my job.
 - 📫 About me: https://www.linkedin.com/in/cayetano-garc%C3%ADa-mart%C3%ADn/ 
